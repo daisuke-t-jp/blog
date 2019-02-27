@@ -6,10 +6,19 @@
     <description>Recent content in Posts on daisuke-t-jp/memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Feb 2019 23:33:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:15:41 +0900</lastBuildDate>
     
 	<atom:link href="https://daisuke-t-jp.github.io/memo/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Swift Package Manager Commands</title>
+      <link>https://daisuke-t-jp.github.io/memo/posts/swift-package-manager-commands/</link>
+      <pubDate>Thu, 28 Feb 2019 00:15:41 +0900</pubDate>
+      
+      <guid>https://daisuke-t-jp.github.io/memo/posts/swift-package-manager-commands/</guid>
+      <description> Init package(Executable) $ swift package init --type executable  Init package(Library) $ swift package init --type library  Build package $ swift build  Test package $ swift test  Run package $ swift run  Define dependent package Local .package(path: &amp;quot;../Module&amp;quot;),  Branch .package(url: &amp;quot;https://github.com/&amp;lt;USER&amp;gt;/&amp;lt;REPO&amp;gt;.git&amp;quot;, .branch(&amp;quot;master&amp;quot;)),  </description>
+    </item>
     
     <item>
       <title>Run Swift on Docker&#39;s Linux</title>
