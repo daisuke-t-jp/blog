@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/swiftlint-link/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/posts/swiftlint-link/</loc>
     <lastmod>2019-02-27T01:07:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/library-register-to-cocoapods/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/posts/library-register-to-cocoapods/</loc>
     <lastmod>2019-02-25T11:39:09+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/posts/</loc>
     <lastmod>2019-02-27T01:07:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://daisuke-t-jp.github.io/blog/</loc>
     <lastmod>2019-02-27T01:07:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
