@@ -2,7 +2,7 @@ title = "github.com/daisuke-t-jp/blog"
 baseURL = "https://daisuke-t-jp.github.io/blog/"
 languageCode = "en-us"
 theme = "ananke"
-publishdir = "docs/"
+publishdir = "../docs/"
 
 [sitemap]
   changefreq = "monthly"
