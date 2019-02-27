@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/posts/run-swift-on-dockers-linux/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/posts/run-swift-on-dockers-linux/</loc>
     <lastmod>2019-02-27T23:33:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/posts/swiftlint-link/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/posts/swiftlint-link/</loc>
     <lastmod>2019-02-27T01:07:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/posts/library-register-to-cocoapods/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/posts/library-register-to-cocoapods/</loc>
     <lastmod>2019-02-25T11:39:09+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/categories/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/posts/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/posts/</loc>
     <lastmod>2019-02-27T23:33:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/tags/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://daisuke-t-jp.github.io/blog/</loc>
+    <loc>https://daisuke-t-jp.github.io/memo/</loc>
     <lastmod>2019-02-27T23:33:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>

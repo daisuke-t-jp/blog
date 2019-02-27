@@ -1,46 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>github.com/daisuke-t-jp/blog</title>
-    <link>https://daisuke-t-jp.github.io/blog/</link>
-    <description>Recent content on github.com/daisuke-t-jp/blog</description>
+    <title>github.com/daisuke-t-jp/memo</title>
+    <link>https://daisuke-t-jp.github.io/memo/</link>
+    <description>Recent content on github.com/daisuke-t-jp/memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 23:33:53 +0900</lastBuildDate>
     
-	<atom:link href="https://daisuke-t-jp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daisuke-t-jp.github.io/memo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Run Swift on Docker&#39;s Linux</title>
-      <link>https://daisuke-t-jp.github.io/blog/posts/run-swift-on-dockers-linux/</link>
+      <link>https://daisuke-t-jp.github.io/memo/posts/run-swift-on-dockers-linux/</link>
       <pubDate>Wed, 27 Feb 2019 23:33:53 +0900</pubDate>
       
-      <guid>https://daisuke-t-jp.github.io/blog/posts/run-swift-on-dockers-linux/</guid>
-      <description>References  Download Swift Swift  Step Docker  Install Dokcer
- $ brew cask install docker  Get Ubuntu image
- $ docker pull ubuntu  Create container of Ubuntu
- $ docker run --privileged -it ubuntu /bin/bash  Start container
- $ docker start ID  Attach container
- $ docker attach ID   Ubuntu  Update packages
- $ apt update   Install packages that dependent Swift</description>
+      <guid>https://daisuke-t-jp.github.io/memo/posts/run-swift-on-dockers-linux/</guid>
+      <description>References  Download Swift Swift  Step Docker  Install Docker
+$ brew cask install docker  Get Ubuntu image
+$ docker pull ubuntu  Create container of Ubuntu
+$ docker run --privileged -it ubuntu /bin/bash  Start container
+$ docker start ID  Attach container
+$ docker attach ID   Ubuntu  Update packages
+# apt update  Install packages that dependent Swift
+# apt-get install git cmake ninja-build clang python uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config libblocksruntime-dev libcurl4-openssl-dev systemtap-sdt-dev tzdata rsync  Download Swift</description>
     </item>
     
     <item>
       <title>SwiftLint Link</title>
-      <link>https://daisuke-t-jp.github.io/blog/posts/swiftlint-link/</link>
+      <link>https://daisuke-t-jp.github.io/memo/posts/swiftlint-link/</link>
       <pubDate>Wed, 27 Feb 2019 01:07:37 +0900</pubDate>
       
-      <guid>https://daisuke-t-jp.github.io/blog/posts/swiftlint-link/</guid>
+      <guid>https://daisuke-t-jp.github.io/memo/posts/swiftlint-link/</guid>
       <description> Links  README - https://github.com/realm/SwiftLint/blob/master/README.md Rules - https://github.com/realm/SwiftLint/blob/master/Rules.md  </description>
     </item>
     
     <item>
       <title>Library register to CocoaPods</title>
-      <link>https://daisuke-t-jp.github.io/blog/posts/library-register-to-cocoapods/</link>
+      <link>https://daisuke-t-jp.github.io/memo/posts/library-register-to-cocoapods/</link>
       <pubDate>Mon, 25 Feb 2019 11:39:09 +0900</pubDate>
       
-      <guid>https://daisuke-t-jp.github.io/blog/posts/library-register-to-cocoapods/</guid>
+      <guid>https://daisuke-t-jp.github.io/memo/posts/library-register-to-cocoapods/</guid>
       <description>First time  Create podspec
  pod spec create MyLib  Edit podspec
  Do not include info.plist in source_files.  Check Lint

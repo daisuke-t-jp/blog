@@ -1,5 +1,5 @@
-title = "github.com/daisuke-t-jp/blog"
-baseURL = "https://daisuke-t-jp.github.io/blog/"
+title = "github.com/daisuke-t-jp/memo"
+baseURL = "https://daisuke-t-jp.github.io/memo/"
 languageCode = "en-us"
 theme = "ananke"
 publishdir = "../docs/"
