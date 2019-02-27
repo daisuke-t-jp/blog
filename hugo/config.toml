@@ -1,4 +1,4 @@
-title = "github.com/daisuke-t-jp/memo"
+title = "daisuke-t-jp/memo"
 baseURL = "https://daisuke-t-jp.github.io/memo/"
 languageCode = "en-us"
 theme = "ananke"

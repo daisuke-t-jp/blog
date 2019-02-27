@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on github.com/daisuke-t-jp/memo</title>
+    <title>Posts on daisuke-t-jp/memo</title>
     <link>https://daisuke-t-jp.github.io/memo/posts/</link>
-    <description>Recent content in Posts on github.com/daisuke-t-jp/memo</description>
+    <description>Recent content in Posts on daisuke-t-jp/memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Feb 2019 23:33:53 +0900</lastBuildDate>
