@@ -6,10 +6,25 @@
     <description>Recent content in Posts on github.com/daisuke-t-jp/blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Feb 2019 01:07:37 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 23:33:53 +0900</lastBuildDate>
     
 	<atom:link href="https://daisuke-t-jp.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Run Swift on Docker&#39;s Linux</title>
+      <link>https://daisuke-t-jp.github.io/blog/posts/run-swift-on-dockers-linux/</link>
+      <pubDate>Wed, 27 Feb 2019 23:33:53 +0900</pubDate>
+      
+      <guid>https://daisuke-t-jp.github.io/blog/posts/run-swift-on-dockers-linux/</guid>
+      <description>References  Download Swift Swift  Step Docker  Install Dokcer
+ $ brew cask install docker  Get Ubuntu image
+ $ docker pull ubuntu  Create container of Ubuntu
+ $ docker run --privileged -it ubuntu /bin/bash  Start container
+ $ docker start ID  Attach container
+ $ docker attach ID   Ubuntu  Update packages
+ $ apt update   Install packages that dependent Swift</description>
+    </item>
     
     <item>
       <title>SwiftLint Link</title>
