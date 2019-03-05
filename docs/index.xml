@@ -6,10 +6,22 @@
     <description>Recent content on daisuke-t-jp/memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 20:32:09 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 06:34:46 +0900</lastBuildDate>
     
 	<atom:link href="https://daisuke-t-jp.github.io/memo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carthage Setup on macOS</title>
+      <link>https://daisuke-t-jp.github.io/memo/posts/carthage-setup-on-macos/</link>
+      <pubDate>Wed, 06 Mar 2019 06:34:46 +0900</pubDate>
+      
+      <guid>https://daisuke-t-jp.github.io/memo/posts/carthage-setup-on-macos/</guid>
+      <description>Reference  Carthage  1. Install Carthage $ brew update $ brew install carthage  2. Make Cartfile file Case of use https://github.com/tadija/AEXML on iOS platform.
+github &amp;quot;tadija/AEXML&amp;quot;  or
+git &amp;quot;https://github.com/tadija/AEXML.git&amp;quot;  3. Update .gitignore /Carthage # Adding  4. Build Carthage carthage update --platform iOS  If build was succeed, There is framework in &amp;ldquo;Carthage/Build/iOS/&amp;rdquo;.
+5. Add Carthage framework to Xcode project You Carthage framework add to target BuildPhase&amp;rsquo;s Link Binary With Libraries.</description>
+    </item>
     
     <item>
       <title>Android DPI List</title>

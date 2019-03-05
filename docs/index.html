@@ -36,7 +36,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://daisuke-t-jp.github.io/memo/" />
 
-<meta property="og:updated_time" content="2019-03-01T20:32:09&#43;09:00"/>
+<meta property="og:updated_time" content="2019-03-06T06:34:46&#43;09:00"/>
 
 <meta itemprop="name" content="daisuke-t-jp/memo">
 <meta itemprop="description" content="">
@@ -132,14 +132,17 @@
       
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/memo/posts/android-dpi-list/" class="color-inherit dim link">
-            Android DPI List
+          <a href="/memo/posts/carthage-setup-on-macos/" class="color-inherit dim link">
+            Carthage Setup on macOS
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-          DPI ( dots per inch )    Type Size DPI Note     ldpi Low &lt;=120dpi    mdpi Middle, Standard &lt;=160dpi    hdpi High &lt;=240dpi    xhdpi eXtra-High &lt;=320dpi    xxhdpi eXtra-eXtra-High &lt;=480dpi    xxxhdpi eXtra-eXtra-eXtra-High &lt;=640dpi This type used for only launcher icon.   nodpi No specified dpi      Specified dpi  420dpi &hellip; Nexus 5X
+          Reference  Carthage  1. Install Carthage $ brew update $ brew install carthage  2. Make Cartfile file Case of use https://github.com/tadija/AEXML on iOS platform.
+github &quot;tadija/AEXML&quot;  or
+git &quot;https://github.com/tadija/AEXML.git&quot;  3. Update .gitignore /Carthage # Adding  4. Build Carthage carthage update --platform iOS  If build was succeed, There is framework in &ldquo;Carthage/Build/iOS/&rdquo;.
+5. Add Carthage framework to Xcode project You Carthage framework add to target BuildPhase&rsquo;s Link Binary With Libraries.
         </div>
-          <a href="/memo/posts/android-dpi-list/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+          <a href="/memo/posts/carthage-setup-on-macos/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
       </div>
     </div>
@@ -156,14 +159,14 @@
       
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
-          <a href="/memo/posts/swift-package-manager-commands/" class="color-inherit dim link">
-            Swift Package Manager Commands
+          <a href="/memo/posts/android-dpi-list/" class="color-inherit dim link">
+            Android DPI List
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-           Init package(Executable) $ swift package init --type executable  Init package(Library) $ swift package init --type library  Build package $ swift build  Test package $ swift test  Run package $ swift run  Define dependent package Local .package(path: &quot;../Module&quot;),  Branch .package(url: &quot;https://github.com/&lt;USER&gt;/&lt;REPO&gt;.git&quot;, .branch(&quot;master&quot;)),  
+          DPI ( dots per inch )    Type Size DPI Note     ldpi Low &lt;=120dpi    mdpi Middle, Standard &lt;=160dpi    hdpi High &lt;=240dpi    xhdpi eXtra-High &lt;=320dpi    xxhdpi eXtra-eXtra-High &lt;=480dpi    xxxhdpi eXtra-eXtra-eXtra-High &lt;=640dpi This type used for only launcher icon.   nodpi No specified dpi      Specified dpi  420dpi &hellip; Nexus 5X
         </div>
-          <a href="/memo/posts/swift-package-manager-commands/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+          <a href="/memo/posts/android-dpi-list/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
         
       </div>
     </div>
@@ -178,6 +181,12 @@
       <section class="w-100">
         <h1 class="f3">More</h1>
         
+        
+          <h2 class="f5 fw4 mb4 dib mr3">
+            <a href="/memo/posts/swift-package-manager-commands/" class="link black dim">
+              Swift Package Manager Commands
+            </a>
+          </h2>
         
           <h2 class="f5 fw4 mb4 dib mr3">
             <a href="/memo/posts/run-swift-on-dockers-linux/" class="link black dim">
