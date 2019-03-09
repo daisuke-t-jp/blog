@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://daisuke-t-jp.github.io/memo/posts/organization-github-list-in-japan/</loc>
+    <lastmod>2019-03-09T02:04:37+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://daisuke-t-jp.github.io/memo/posts/carthage-setup-on-macos/</loc>
     <lastmod>2019-03-06T06:34:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,7 +59,7 @@
   
   <url>
     <loc>https://daisuke-t-jp.github.io/memo/posts/</loc>
-    <lastmod>2019-03-06T06:34:46+09:00</lastmod>
+    <lastmod>2019-03-09T02:04:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -65,7 +72,7 @@
   
   <url>
     <loc>https://daisuke-t-jp.github.io/memo/</loc>
-    <lastmod>2019-03-06T06:34:46+09:00</lastmod>
+    <lastmod>2019-03-09T02:04:37+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

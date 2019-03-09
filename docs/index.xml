@@ -6,10 +6,19 @@
     <description>Recent content on daisuke-t-jp/memo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Mar 2019 06:34:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 02:04:37 +0900</lastBuildDate>
     
 	<atom:link href="https://daisuke-t-jp.github.io/memo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Organization GitHub in Japan</title>
+      <link>https://daisuke-t-jp.github.io/memo/posts/organization-github-list-in-japan/</link>
+      <pubDate>Sat, 09 Mar 2019 02:04:37 +0900</pubDate>
+      
+      <guid>https://daisuke-t-jp.github.io/memo/posts/organization-github-list-in-japan/</guid>
+      <description> Cookpad Inc. CyberAgent DeNA KDDI Technology LINE Mercari, Inc. mixi, Inc. NTT Communications NTT OSS Center DBMS Development and Support Team Recruit Lifestyle Co. Ltd. Rakuten, Inc. Rakuten Web Service Yahoo! JAPAN  </description>
+    </item>
     
     <item>
       <title>Carthage Setup on macOS</title>
